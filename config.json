@@ -1,0 +1,19 @@
+{
+  "init": {
+    "Mstar": 8,
+    "Pc0": 4.02e16,
+    "Tc0": 2.88e7,
+    "tstep": "[2e7,1e7]",
+    "pstep": "None",
+    "tnum" : 1000,
+    "pnum" : 1000
+  },
+  "fixed": {
+    "X": 0.7,
+    "Y": 0.27,
+    "Z": 0.03
+  },
+  "other": {
+    "outtable": "False"
+  }
+}
